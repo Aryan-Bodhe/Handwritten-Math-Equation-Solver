@@ -1,16 +1,10 @@
 # Handwritten Math Equation Solver
 
-## Preprocessing Steps
-1. Tilt Correction
-2. Extract Text Area
-3. Vertical Scanline
-4. CCA per image
-5. Feed to model for identification
-
 ## Model Specifications
 1. Convolutional Neural Network
 2. Number of Layers = 5
 3. Saved at : https://iith-my.sharepoint.com/:f:/g/personal/ma23btech11005_iith_ac_in/EkbY9uZ8WiVIlp9Safw74TIBHDmZY5M232QHnupXCEe3sg?e=yqUleX
+4. Our model is trained to solve roots of polynomials having integer coefficients and powers.
 
 ## TO-DO
 - [x] Load the Handwritten_Characters dataset : \
