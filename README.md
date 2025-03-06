@@ -1,4 +1,9 @@
 # Handwritten Math Equation Solver
+Contributors - Aryan Bodhe, Naishadha Voruganti, Sonit Patil.
+
+Due to some policy issues the website could not be hosted. However, here's a video link demonstrating the usage of our model. \
+Link - https://drive.google.com/file/d/1hsknvQblPA3icaaADbs0Tr0KJa_AJHyN/view?usp=sharing
+
 
 ## Model Specifications
 1. Convolutional Neural Network
